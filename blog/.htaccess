@@ -1,39 +1,9 @@
-AddDescription "This is what a post looks like" this-is-what-a-post-looks-like.html
-AddDescription "Test of Blog System" test-of-blog-system.html
-AddDescription "Test" test.html
-AddDescription "yeet" yeet.html
-AddDescription "Test Post" test-post.html
-AddDescription "ye" ye.html
-AddDescription "Test Post" test-post.html
-AddDescription "Test Post" test-post.html
-AddDescription "Test Post 2" test-post-2.html
-AddDescription "Test Post" test-post.html
-AddDescription "Test Post 2" test-post-2.html
-AddDescription "Test Post 3" test-post-3.html
-AddDescription "yeet" yeet.html
-AddDescription "yeet 2" yeet-2.html
-AddDescription "test" test-1.html
-AddDescription "test" test.html
-AddDescription "Test Post" test-post.html
-AddDescription "test" test.html
-AddDescription "Test Post 2" test-post-2.html
-AddDescription "Test" test.html
-AddDescription "test" test.html
-AddDescription "Gnu Plus Linux" gnu-plus-linux.html
 AddDescription "Anime Should Be Illegal" anime-should-be-illegal.html
 AddDescription "Suckless: The Good and Bad" suckless-the-good-and-bad.html
 AddDescription "Funtoo Linux: Not the Fun Version of Gentoo" funtoo-linux-not-the-fun-version-of-gentoo.html
-AddDescription "What's GNU/Linux?" whats-gnulinux.html
-AddDescription "What's GNU/Linux?" whats-gnulinux.html
 AddDescription "What's Gnu slash Linux?" whats-gnu-slash-linux.html
 AddDescription "Why I use GNU plus Linux" why-i-use-gnu-plus-linux.html
 AddDescription "Why Apple Sucks" why-apple-sucks.html
-AddDescription "K-Pop Ought to be Illegal" kpop-ought-to-be-illegal.html
 AddDescription "KPop Should be Illegal" kpop-should-be-illegal.html
 AddDescription "Emo Music: What is it?" emo-music-what-is-it.html
-AddDescription "test post" test-post.html
-AddDescription "testy" testy.html
-AddDescription "test post" test-post.html
-AddDescription "test post" test-post.html
-AddDescription "This is a test" "this-is-a-test.html" #Thu, 20 Dec 2018 21:55:34 -0500
-AddDescription "This is a test" "this-is-a-test.html"
+AddDescription "test" "test.html" #Thu, 31 Jan 2019 17:55:20 -0600

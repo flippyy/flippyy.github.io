@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="rss.css" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+<channel>
+<title>Jesse Erwin's Blog</title>
+<description>GNU/Linux and ramblings.</description>
+<language>en-us</language>
+<link>http://jesseerwin.net/rss.xml</link>
+<atom:link href="http://jesseerwin.net/rss.xml" rel="self" type="application/rss+xml" />
+
+<!-- LB -->
+
+<item>
+<title>test</title>
+<guid>http://jesseerwin.net/blog.html#test.html</guid>
+<pubDate>Thu, 31 Jan 2019 17:55:20 -0600</pubDate>
+<description><![CDATA[
+this is a test post
+]]></description>
+</item>
+
+
+
+
+</channel>
+</rss>
+
