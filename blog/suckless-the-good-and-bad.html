@@ -1,0 +1,59 @@
+<html>
+<head>
+<title>Suckless: The Good and Bad</title>
+<link rel='stylesheet' type='text/css' href='../style.css'>
+<meta charset='utf-8'/>
+</head>
+<body><head><link href=https://fonts.googleapis.com/css?family=Cormorant+Garamond rel=stylesheet>
+	</head><h1 id='suckless-the-good-and-bad'>Suckless: The Good and Bad</h1>
+<small>[<a href="../blog.html#suckless-the-good-and-bad">link</a>&mdash;<a href="../blog/suckless-the-good-and-bad.html">standalone</a>]</small>
+
+<p>There seem to be some misunderstandings regarding suckless and their
+software philosophy, so I'll lay out the basics here, and what I think
+is good and bad about their programs.</p>
+
+<p>If you don't know, <a href="https://suckless.org">suckless</a> is a 
+collective of hackers that write minimal software meant for advanced 
+users. They've released well-known programs that include dmenu, dwm, st, 
+and others. Perhaps the most notable quality of these programs is their
+"non-features," that is, they are lacking of common features and must be
+configured by editing a C header file and then recompiling the software 
+with every change that you make. This sounds like a hassle, but because
+the software is small, it will compile in a fraction of a second. </p>
+
+<p>Suckless software is admittedly harder to configure and install than
+other programs, so why use it? At first glance, it just looks like a
+good attempt at messing up package maintainers, as you can't effectively
+distribute binaries of these programs. There are numerous advantages to
+this, in addition to the disadvantages.</p>
+
+<p>Before I go further, I should explain exactly what suckless does with
+its code. The basic idea is that code quality should not be measured by
+quantity, but rather simplicity. Suckless prides itself on the low 
+resource footprint of its programs, for example, dwm is less than 2000
+lines of C. Programs are delibrately written without common features,
+and those features are usually distributed via patches in .diff files.
+This keeps code fast, easy to write, and modular, hence the Unix way.
+the general idea behind all of this is stated on their site: "Ingenious ideas 
+are simple. Ingenious software is simple. Simplicity is the heart of the 
+Unix philosophy. The more code lines you have removed, the more progress you 
+have made. As the number of lines of code in your software shrinks, the 
+more skilled you have become and the less your software sucks." To sum it up,
+the more simple you can make a solution, the better a solution is.</p>
+
+<p>Suckless isn't all good though. Like I stated above, you have to recompile
+a program every time a configuration edit is made to it in order for the change
+to stick. This makes it difficult to distribute by a distro's repositories,
+since the user would be getting a version they can't configure. Also, the
+software is hard to use and configure in many cases.</p>
+
+
+<p>Note that suckless software isn't meant for most people. It is stated
+on <a href="https://suckless.org/philosophy/">their philosophy page</a> 
+that the programs are meant for experienced and advanced users. If you
+don't want to edit a C header file and recompile every time you want
+a different colorscheme, then suckless isn't for you. It's a model that 
+can be appealing to a lot of people, though. </p>
+</body>
+<footer>by <strong><a href="http://jesseerwin.net/">Jesse Erwin</a></strong></footer>
+</html>
