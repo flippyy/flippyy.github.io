@@ -2,11 +2,9 @@ body {
 	background-color: #fffff;
 	font-family: 'Source Serif Pro', serif;
 	font-size: 120%;	
-	ma rgin-left: 30%;
-	ma rgin-right: 30%;
-	max-width: 70%;
+	max-width: 80%;
 	text-align: left;
-	width: 600px;
+	width: 700px;
 	margin: auto;
 }
 h1,h2,h3,h4,h5,h6 {
