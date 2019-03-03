@@ -1,9 +1,8 @@
 body {
 	background-color: #000000;
-	color: #ffffff;
-;	font-family: 'Source Serif Pro', serif;
-	font-family: "Courier New";
-	font-size: 120%;	
+	color: #fff;
+	font-family: courier;
+	font-size: 80%;	
 	max-width: 80%;
 	text-align: left;
 	width: 700px;
@@ -14,10 +13,9 @@ h1,h2,h3,h4,h5,h6 {
 }
 .entry {
 margin-top: 5px;
-color: #ffffff;
+color: #fff;
 background-color: #000000;
-border-color: #ffffff;
-border-top: 1px, #000000;
+border-top: 1px, #fff;
 border-top-style: dashed;
 border-width: 1px;
 }
