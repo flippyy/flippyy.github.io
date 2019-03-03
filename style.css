@@ -1,6 +1,8 @@
 body {
-	background-color: #fffff;
-	font-family: 'Source Serif Pro', serif;
+	background-color: #000000;
+	color: #FFFFFF;
+;	font-family: 'Source Serif Pro', serif;
+	font-family: "Courier New";
 	font-size: 120%;	
 	max-width: 80%;
 	text-align: left;
